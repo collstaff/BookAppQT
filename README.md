@@ -1,5 +1,7 @@
 BookStore Application
 
+Read Programming Team 6 - C++ Final Project.docx 
+for the full documentation
 Final version by Collin Stafford, Noah Vanderveen, and Leydi Martinez
 
 The purpose of this application is to provide a book store application that allows the user to save, purchase, and add books 
