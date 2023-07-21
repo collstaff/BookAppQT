@@ -1,0 +1,40 @@
+Application Started
+Retrieving Inventory
+Inventory retrieved
+Exiting Application
+
+Application Started
+Retrieving Inventory
+Inventory retrieved
+Exiting Application
+
+Application Started
+Retrieving Inventory
+Inventory retrieved
+Exiting Application
+
+Application Started
+Retrieving Inventory
+Inventory retrieved
+Exiting Application
+
+Application Started
+Retrieving Inventory
+Inventory retrieved
+Exiting Application
+
+Application Started
+Retrieving Inventory
+Inventory retrieved
+Exiting Application
+
+Application Started
+Retrieving Inventory
+Inventory retrieved
+Exiting Application
+
+Application Started
+Retrieving Inventory
+Inventory retrieved
+Exiting Application
+
